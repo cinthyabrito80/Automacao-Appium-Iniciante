@@ -1,8 +1,0 @@
-[caps]
-platformName = "Android"
-deviceName = "Nexus_4_API_22"
-app = "C:/Concrete/Desafio_QA/Appium/features/support/app-debug.apk"
-
-[appium_lib]
-sauce_username = ""
-sauce_access_key = ""
